@@ -1,7 +1,7 @@
 import openai
 import random
 
-openai.api_key = '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'
+openai.api_key = 'sk-KLxxJ'
 
 quantos = int(input('Quantos herois participarão dessa aventura? digite um número inteiro de 1 a 10: '))
 
