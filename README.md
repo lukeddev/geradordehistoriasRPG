@@ -12,7 +12,7 @@ Essa key serve para liberar a comunicação com o chatgpt
 - É necessário ter instalado as bibliotecas "random" e "openai"
 
 - Na linha "max_tokens=2018" você pode alterar para aumentar o numero de linhas da historia
-- Na linha "temperature=1.0" Você pode alterar para alterar a criatividade da IA, quanto mais baixo mais literal fica a historia, isso ajuda ao programa ficar mais leve.
+- Na linha "temperature=1.0" Você pode alterar para gerenciar a criatividade da IA, quanto mais baixo mais literal fica a historia, isso ajuda o programa a ficar mais leve.
 - Desculpe a falta de termos técnicos corretos, ainda estou aprendendo!
 - Estou super aberto a sugestões e dúvidas!
 
