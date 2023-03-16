@@ -18,7 +18,7 @@ Essa key serve para liberar a comunicação com o chatgpt
 
 ## PROJETO
 - item 1: Criar o script; ✅
-- *item 2: habilitar possibilidades de adicionar detalhes na historia a seu bel prazer;*
+- **item 2: habilitar possibilidades de adicionar detalhes na historia a seu bel prazer;**
 - item 3: inserir o comando dentro de um site acessivel;
 - item 4: Criar um aplicativo para dispositivo móvel;
 
