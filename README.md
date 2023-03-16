@@ -1,8 +1,25 @@
-# gerador de historias RPG
+![imagens de aventureiros rpg](https://sm.ign.com/ign_pt/screenshot/default/konosuba-gif_2428.gif)
+
+# GERADOR DE HISTORIA RPG 🎆
 Estou criando um gerador de historia em PYTHON junto com o chatgpt, estou incrementando funções a cada dia que vou descobrindo as novas possibilidades do PYTHON
 
-PROJETO
-1 - Criar o script
-2 - habilitar possibilidades de adicionar detalhes na historia a seu bel prazer.
-3 - inserir dentro de um site criado por mim
-4 - Criar um aplicativo para o mesmo
+
+## OBSERVAÇÕES
+- Se quiser copiar o codigo, não se esqueça de pegar sua chave única do chat pgt e substituir no campo:
+openai.api_key = 'sua chave aqui
+Essa key serve para liberar a comunicação com o chatgpt
+
+- É necessário ter instalado as bibliotecas "random" e "openai"
+
+- Na linha "max_tokens=2018" você pode alterar para aumentar o numero de linhas da historia
+- Na linha "temperature=1.0" Você pode alterar para alterar a criatividade da IA, quanto mais baixo mais literal fica a historia, isso ajuda ao programa ficar mais leve.
+- Desculpe a falta de termos técnicos corretos, ainda estou aprendendo!
+- Estou super aberto a sugestões e dúvidas!
+
+## PROJETO
+- item 1: Criar o script; ✅
+- item 2: - habilitar possibilidades de adicionar detalhes na historia a seu bel prazer;
+- item 3: - inserir o comando dentro de um site acessivo;
+- item 4: - Criar um aplicativo para dispositivo móvel;
+
+
