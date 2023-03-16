@@ -1,7 +1,7 @@
 import openai
 import random
 
-openai.api_key = 'sk-KLxxJ'
+openai.api_key = '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'
 
 quantos = int(input('Quantos herois participarão dessa aventura? digite um número inteiro de 1 a 10: '))
 
@@ -45,8 +45,8 @@ chefão = [
     'Um golem gigante',
 ]
 boss = random.choice(chefão)
-aventura = ('Crie uma aventura de rpg onde {} aventureiros, devem ir até {}, e fazer {} O '
-            'chefão final será um {}' .format(quantos, onde, fazer, boss))
+aventura = ('Crie uma aventura de rpg para {} aventureiro, ele deve ir até {}, e fazer {} O '
+            'inimigo final será um {}.A historia deve ser balanceada de acordo com a quantidade de aventureiros descrito a cima' .format(quantos, onde, fazer, boss))
 
 completion = openai.Completion.create(
     engine = "text-davinci-003",
